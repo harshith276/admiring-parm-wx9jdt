@@ -1,0 +1,9 @@
+Roadmap - 
+
+0. HTML + CSS
+1. JS + TS
+2. FE Framework - React / Angular / Vue
+3. Developer Tools - Vite, Eslint, Testing, Github Actions
+4. Optional 1 - BE Framework - Python + Django, JS + NodeJS, Java + Springboot, Go, Ruby on Rails
+5. Optional 2 - Mobile Development - React Native, Flutter
+6. Optional 3 - Devops - AWS, Caching, Load Balancing, Hosting
